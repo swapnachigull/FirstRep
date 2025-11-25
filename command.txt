@@ -1,0 +1,48 @@
+    1  mkdir FristRep
+    2  git config --global user,name "swapna.chigull@gmail.com"
+    3  git config --global user.name "swapnachigull"
+    4  git config --global user.e-mail "swapna.chigull@gmail.com"
+    5  git config --list
+    6  git config --global user.email "swapna.chigull@gmail.com"
+    7  git config --list
+    8  cd
+    9  cd FirstRep
+   10  ls
+   11  pwd
+   12  mkdir FristRep
+   13  mkdir FristRepo
+   14  mkdir FirstRep
+   15  cd FirstRep
+   16  ls
+   17  vimtutor
+   18  clear
+   19  vim swapnafile.txt
+   20  list ls
+   21  ls
+   22  git status
+   23  get init
+   24  git init
+   25  git status
+   26  git add swapnafile.txt
+   27  git status
+   28  git commit -m "test"
+   29  git status
+   30  git init
+   31  ls -l
+   32  ls - al
+   33  ls -al
+   34  git status
+   35  git log
+   36  git show
+   37  git remote add origin https://github.com/swapnachigull/FirstRep.git
+   38  git push -u origin master
+   39  history
+   40  pwd
+   41  cd FirstRep
+   42  ls
+   43  vim test1.txt
+   44  ls
+   45  vim test2.txt
+   46  git status
+   47  history
+   48  history > command.txt
